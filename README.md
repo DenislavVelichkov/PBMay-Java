@@ -1,6 +1,6 @@
 # Java Programing Basics Module - May 2018 
 
-<p text-align="center">Programming Basics Module at SoftUni. Started at May 2018, ended July 2018. <a href="www.softuni.bg"><img src="http://grozdarska.net/wp-content/uploads/2015/01/SoftUni-Logo-300x300.png" width="30" alt="software-university"></a>
+<p text-align="center">Programming Basics Module at SoftUni. Started at May 2018, ended July 2018. <a href="https://www.softuni.bg"><img src="http://grozdarska.net/wp-content/uploads/2015/01/SoftUni-Logo-300x300.png" width="30" alt="software-university"></a>
 </p>
 
 ## COURSE SUMMERY:
