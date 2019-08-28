@@ -4,7 +4,7 @@
 <a href="https://www.softuni.bg">SoftUni <img src="http://grozdarska.net/wp-content/uploads/2015/01/SoftUni-Logo-300x300.png" width="30" alt="software-university"></a>. Started at May 2018, ended July 2018.
 </p>
 
-## COURSE SUMMERY:
+## COURSE SUMMARY:
 
 * First Steps in Programming
 * Simple Calculation
