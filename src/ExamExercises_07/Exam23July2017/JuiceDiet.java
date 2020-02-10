@@ -1,6 +1,5 @@
 package ExamExercises_07.Exam23July2017;
 
-import java.beans.beancontext.BeanContextServiceRevokedEvent;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

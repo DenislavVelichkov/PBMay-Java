@@ -8,7 +8,7 @@ public class Demo {
 
         int sum = 0;
 
-        for (int index = 1; index <= 10; index--){
+        for (int index = 1; index <= 10; index++){
             int a = Integer.parseInt(scan.nextLine());
             int b = Integer.parseInt(scan.nextLine());
 
